@@ -1,9 +1,0 @@
-def add(a,b):
-    return a+b
-
-def substract(a,b):
-    return a-b
-    
-
-def square(n):
-    return n*n
